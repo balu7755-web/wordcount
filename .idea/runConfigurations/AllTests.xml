@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All Tests" type="PythonTestConfigurationType" factoryName="py.test">
+    <module name="wordcountsimple" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="TARGET" value="tests" />
+    <option name="USE_MODULE_SDK" value="true" />
+    <option name="TEST_TYPE" value="TEST_FOLDER" />
+  </configuration>
+</component>
